@@ -4,13 +4,15 @@
   font-family: monospace;
 }
 
+
+
 .emphasis {
   color: yellow;
   font-style: italic;
 }
 
 .bg {
-  background-color: lime;
+  background: linear-gradient(black, violet, grey, orange, white);
 }
 
 .bgdiv {
