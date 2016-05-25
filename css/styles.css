@@ -15,6 +15,9 @@
   background: linear-gradient(black, violet, grey, orange, white);
 }
 
+.bggradient {
+  background: linear-gradient(to right, black, violet, grey, orange, white);
+}
 .bgdiv {
   background-color: white;
 }
